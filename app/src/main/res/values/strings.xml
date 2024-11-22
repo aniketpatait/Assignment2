@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_height">Change Height</string>
+    <string name="center_text">Center Text</string>
+    <string name="button_4">Button 4</string>
+    <string name="button_5">Button 5</string>
+</resources>
